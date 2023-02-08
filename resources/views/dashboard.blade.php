@@ -148,7 +148,7 @@ var myLineChart = new Chart(ctx, {
       yAxes: [{
         ticks: {
           min: 0,
-          max:{{max(array_values($salesDataArr))}} ,
+          max:max(array_values($salesDataArr)),
           maxTicksLimit: 5
         },
         gridLines: {
