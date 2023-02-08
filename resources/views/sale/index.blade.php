@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @section('content')
-<section style="background-color: #eee; margin-top:20px;">
+<section style="background-color: #D6EFC7; margin-top:20px;">
 <div class="row p-3">
 <div class="col-md-12 mt-2">
 <h5>Sale Management</h5>

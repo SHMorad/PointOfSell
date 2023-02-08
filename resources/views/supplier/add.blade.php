@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @section('content')
-<section style="background-color: #eee; margin-top:20px;">
+<section style="background-color: #D6EFC7; margin-top:20px;">
     <div class="row">
     <div class="col-md-9 p-2">
         <h2 class="text-muted mt-1">Insert Supplier</h2>

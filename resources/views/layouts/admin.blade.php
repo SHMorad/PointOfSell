@@ -15,12 +15,12 @@
     <link rel="stylesheet" href="{{asset('build/assets/css/style.css')}}">
 </head>
 
-<body style="color: #6C757D;">
+<body style="color: #194E48;">
     <section>
         <div class="container">
             {{--Navbar start --}}
-            <nav class="navbar navbar-expand-lg p-0" style="background-color: #EEEEEE;">
-                <a class="navbar-brand" href="{{url('/')}}"><img src="{{asset('build/assets/images/logoipsum-285.svg')}}" alt="" class="p-2 m-0" style="height: 50px"></a>
+            <nav class="navbar navbar-expand-lg p-0" style="background-color: #98BA7D;">
+                <a class="navbar-brand" href="{{url('/dashboard')}}"><img src="{{asset('build/assets/images/logoipsum-285.svg')}}" alt="" class="p-2 m-0" style="height: 50px"></a>
                 <div class="container-fluid badge">
                    
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

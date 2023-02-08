@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @section('content')
-    <section style="background-color: #eee; margin-top:20px;">
+    <section style="background-color: #D6EFC7; margin-top:20px;">
     <div class="row row-cols-1 row-cols-md-3 g-4 p-5">
         <div class="col p-2">
           <div class="card h-100 w-100 d-flex justify-content-center align-items-center">

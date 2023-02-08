@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @section('content')
-<section style="background-color: #eee; margin-top:20px;">
+<section style="background-color: #D6EFC7; margin-top:20px;">
   <div class="container">
     <h2 class="text-muted">Dashboard</h2>
       <div class="row">

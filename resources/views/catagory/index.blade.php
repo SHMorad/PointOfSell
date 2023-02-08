@@ -1,12 +1,12 @@
 @extends('layouts.admin')
 @section('content')
-<section style="background-color:#eee; margin-top:20px;">
+<section style="background-color:#D6EFC7; margin-top:20px;">
 <a class="btn btn-primary mt-2" href="{{route('catagory.create')}}">+</a>
         <div class="row">
             <div class="col-md-9 mt-2">
             @include('common.message')
             @foreach ($catagory as $c)
-                <div class="card mb-4">
+                <div class="card mb-4" style="background-color: #D6EFC7;">
                     <div class="card-body">
                         <div class="row">
                             <div class="col-sm-3">
